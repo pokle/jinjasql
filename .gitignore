@@ -5,3 +5,5 @@ build/
 dist/
 jinjasql.egg-info/
 venv
+.DS_Store
+*.egg-info/

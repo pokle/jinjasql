@@ -1,3 +1,8 @@
+# Fork
+
+This is a fork to fix issues with Markupsafe.
+
+
 # Generate SQL Queries using a Jinja Template, without worrying about SQL Injection #
 
 [![Github Actions Build Status](https://github.com/sripathikrishnan/jinjasql/workflows/Tests/badge.svg)](https://github.com/sripathikrishnan/jinjasql/actions)
